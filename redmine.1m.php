@@ -5,7 +5,7 @@
 #  <xbar.author>Tino</xbar.author>
 #  <xbar.author.github>tino-codes</xbar.author.github>
 #  <xbar.desc>Show your Redmine tickets, grouped by project, sort by status</xbar.desc>
-#  <xbar.image>https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Redmine_logo.svg/500px-Redmine_logo.svg.png</xbar.image>
+#  <xbar.image>https://raw.githubusercontent.com/tino-codes/xbar-plugins/main/redmine.png</xbar.image>
 #  <xbar.dependencies>php</xbar.dependencies>
 #  <xbar.abouturl>https://github.com/tino-codes/xbar-plugins</xbar.abouturl>
 #  <xbar.var>string(VAR_URL="https://www.your-redmine.com/"): Redmine url (e.g. https://www.your-redmine.com/)</xbar.var>
